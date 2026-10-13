@@ -4,6 +4,12 @@ An STM32F103VE desk light controller using FreeRTOS, real I2C light-sensor feedb
 
 The application implements automatic brightness control, manual adjustment, and timed focus/break modes. It is under development; the behavior and limitations below describe the current source code rather than a completed product.
 
+## Current Status Demo
+
+[Watch the demo video](docs/Demo.mp4)
+
+The video shows the current state of the desk light controller. Open the link to view the video on GitHub, or download it from the file page.
+
 ## Implemented Features
 
 - FreeRTOS V9.0.0 with preemptive scheduling and a 1 ms tick.
