@@ -1,4 +1,4 @@
-﻿# FreeRTOS-based Smart Desk Light Controller with PID
+﻿# FreeRTOS-based Smart Desk Light Controller with PI Control
 
 An STM32F103VE desk light controller using FreeRTOS, real I2C light-sensor feedback, PWM dimming, a rotary encoder, and an event-driven finite state machine.
 
